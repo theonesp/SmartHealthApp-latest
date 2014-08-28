@@ -75,6 +75,8 @@
 
 <gap:splash src="cordova/res/screen/screen-iphone-portrait-568h-2x.png" gap:platform="ios" width="640" height="1136" />
 
+
+
 <gap:splash src="cordova/res/screen/ipad_portrait.png" gap:platform="ios" width="768" height="1024"/>
 
 <gap:splash src="cordova/res/screen/ipad_landscape.png" gap:platform="ios" width="1024" height="768"/>
