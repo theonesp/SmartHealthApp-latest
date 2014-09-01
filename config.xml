@@ -16,9 +16,6 @@
         Smart Health Lab
     </author>
 <!---plugins--->
-    <plugin name="InAppBrowser" value="CDVInAppBrowser" />
-    <plugin name="InAppBrowser" value="org.apache.cordova.InAppBrowser" />
-    <plugin name="InAppBrowser" />
 
 
 
