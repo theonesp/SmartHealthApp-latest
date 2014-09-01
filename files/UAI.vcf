@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Unidad de Apoyo a la Innovación HCSC;Smart Health
+FN:Smart Health Unidad de Apoyo a la Innovación HCSC
+ORG:Smart Health - UAI
+URL:www.shealth.eu
+EMAIL;TYPE=INTERNET:info@shealth.eu
+TEL;TYPE=voice,work,pref:913303735
+ADR;TYPE=intl,postal,parcel:;;C/Profesor Martín Lagos s/n – 4º Sur;Madrid;;28040;Spain
+END:VCARD
