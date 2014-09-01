@@ -15,6 +15,12 @@
     <author href="http://www.shealth.eu" email="ma.armengol@shealth.eu">
         Smart Health Lab
     </author>
+<!---plugins--->
+    <plugin name="InAppBrowser" value="CDVInAppBrowser" />
+    <plugin name="InAppBrowser" value="org.apache.cordova.InAppBrowser" />
+    <plugin name="InAppBrowser" />
+
+
 
 <preference name="phonegap-version" value="3.5.0" />
 <preference name="fullscreen" value="true" />
